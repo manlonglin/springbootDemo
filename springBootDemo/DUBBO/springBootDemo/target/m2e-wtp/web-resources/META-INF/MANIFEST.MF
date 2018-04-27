@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springBootDemo
+Implementation-Version: 1.0
+Built-By: m2399
+Implementation-Vendor-Id: springBootDemo
+Build-Jdk: 1.8.0_51
+Implementation-URL: http://projects.spring.io/spring-boot/springBootDe
+ mo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
